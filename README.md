@@ -6,5 +6,5 @@ The Classic Air Hockey Game 😎
 ## Running the program
 Press play in Visual Studio Community and have fun
 ## Authors/Contributors
-- Sam Stanley (programmer)
-- Ben Olsen (Sprite Art and Programmer)
+- Sam Stanley (Programmer)
+- Ben Olsen (Sprite Art and assisted with Programming)
