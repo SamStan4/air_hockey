@@ -1,0 +1,262 @@
+﻿  air_hockey_MAIN.cpp
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(165,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(165,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(225,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(225,29): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(225,29): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(225,29): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(225,29): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(226,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(226,29): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(226,29): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(226,29): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(226,29): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,29): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,29): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,29): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,29): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,22): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,22): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,22): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(228,22): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(248,32): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(248,32): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(248,32): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(248,32): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(248,32): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(249,32): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(249,32): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(249,32): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(249,32): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(249,32): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,29): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,29): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,29): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,29): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,22): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,22): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,22): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(251,22): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\circle_projectile.h(376,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\mallet.h(59,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\mallet.h(59,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\mallet.h(62,17): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(62,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(62,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(65,17): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(114,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(115,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(137,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(138,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(188,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(189,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(132,11): warning C4101: 'velLine': unreferenced local variable
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(131,11): warning C4101: 'contactLine': unreferenced local variable
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(184,11): warning C4101: 'velLine': unreferenced local variable
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(183,11): warning C4101: 'contactLine': unreferenced local variable
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(326,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\puck.h(496,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\how_to_play.h(56,145): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\samue\Desktop\air_hockey\air_hockey\how_to_play.h(56,145): warning C4305:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\how_to_play.h(56,145): warning C4305:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\how_to_play.h(56,145): warning C4305:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\how_to_play.h(56,145): warning C4305:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(61,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(61,41): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(61,41): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(61,41): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(61,41): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(62,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(62,41): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(62,41): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(62,41): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(62,41): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(63,49): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(63,49): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(63,49): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(63,49): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(63,49): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(64,49): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(64,49): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(64,49): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(64,49): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(64,49): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(234,53): warning C4244: 'argument': conversion from 'unsigned __int64' to 'T', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(234,53): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(234,53): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(234,53): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(234,53): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,116): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,116): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,116): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,116): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,116): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,63): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,63): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,63): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(235,63): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,135): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,135): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,135): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,135): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,135): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,82): warning C4244:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,82): warning C4244:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,82): warning C4244:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\input_field.h(236,82): warning C4244:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\connect_two_computers.h(521,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\connect_two_computers.h(521,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\connect_two_computers.h(535,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\connect_two_computers.h(535,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\connect_two_computers.h(538,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\connect_two_computers.h(538,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(189,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(189,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(190,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(190,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(191,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(191,27): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(192,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(192,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(193,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(193,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(854,132): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(854,132): warning C4305:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(854,132): warning C4305:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(854,132): warning C4305:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(854,132): warning C4305:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(855,129): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(855,129): warning C4305:         with
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(855,129): warning C4305:         [
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(855,129): warning C4305:             T=float
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(855,129): warning C4305:         ]
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(879,27): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+C:\Users\samue\Desktop\air_hockey\air_hockey\test.h(879,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'air_hockey_MAIN.cpp')
+  
+  general_FUNCTIONS.cpp
+  Generating Code...
+C:\Users\samue\Desktop\air_hockey\air_hockey\connect_two_computers.h(952): warning C4715: 'connect_two_computers::get_code': not all control paths return a value
+  air_hockey.vcxproj -> C:\Users\samue\Desktop\air_hockey\x64\Debug\air_hockey.exe
